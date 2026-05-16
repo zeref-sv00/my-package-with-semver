@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Trigger patch release
+  ([`38545d5`](https://github.com/zeref-sv00/my-package-with-semver/commit/38545d5de16e4bc6b3a46e9209f1d3fd8dd10f6d))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
